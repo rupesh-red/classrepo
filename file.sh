@@ -1,3 +1,3 @@
-echo executing code from git
+echo executing poll scm
 whoami
 hostname
